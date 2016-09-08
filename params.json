@@ -1,0 +1,6 @@
+{
+  "name": "Pi",
+  "tagline": "RaspberryPi",
+  "body": "# pi by @lftkv\r\nthe repository for all my raspberry pi stuff, which is not worth to make a own\r\n\r\n1. Python Script to upgrade all pip packages\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
